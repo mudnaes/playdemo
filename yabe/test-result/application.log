@@ -1,0 +1,8 @@
+12 Sep 2010 11:45:59,173 INFO  ~ Starting /home/morten/projects/yabe
+12 Sep 2010 11:45:59,789 INFO  ~ 
+12 Sep 2010 11:45:59,789 INFO  ~ Go to http://localhost:9000/@tests to run the tests
+12 Sep 2010 11:45:59,789 INFO  ~ 
+12 Sep 2010 11:45:59,790 WARN  ~ You're running Play! in DEV mode
+12 Sep 2010 11:45:59,869 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+12 Sep 2010 11:46:06,059 INFO  ~ Connected to jdbc:hsqldb:mem:playembed
+12 Sep 2010 11:46:06,675 INFO  ~ Application 'Yet Another Blog Engine' is now started !
